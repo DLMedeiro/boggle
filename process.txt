@@ -1,0 +1,3 @@
+set out routes for home page and test out functionality
+set up Css to check board visually on page
+generate actual game board
